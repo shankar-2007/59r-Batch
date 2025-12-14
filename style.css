@@ -124,22 +124,23 @@ footer { margin-top: 3rem; padding: 1.5rem; color: #818181; font-size: 0.8rem; t
     justify-content: center;
 }
 
-.image-1{background-image: url(IMG20251213171121.jpg); background-repeat: no-repeat; background-size: cover}
-.image-2{background-image: url(IMG20251213171139.jpg); background-repeat: no-repeat; background-size: cover}
-.image-3{background-image: url(IMG20251213171146.jpg); background-repeat: no-repeat; background-size: cover}
-.image-4{background-image: url(IMG20251213171208.jpg); background-repeat: no-repeat; background-size: cover}
-.image-5{background-image: url(IMG20251213171216.jpg); background-repeat: no-repeat; background-size: cover}
-.image-7{background-image: url(IMG20251213171241.jpg); background-repeat: no-repeat; background-size: cover}
-.image-8{background-image: url(IMG20251213171248.jpg); background-repeat: no-repeat; background-size: cover}
-.image-9{background-image: url(IMG20251213171256.jpg); background-repeat: no-repeat; background-size: cover}
-.image-10{background-image: url(IMG20251213171304.jpg);background-repeat: no-repeat;background-size: cover;}
-.image-11{background-image: url(IMG20251213171312.jpg);background-repeat: no-repeat;background-size: cover;}
-.image-12{background-image: url(IMG20251213171336.jpg);background-repeat: no-repeat;background-size: cover;}
-.image-13{background-image: url(IMG20251213171330.jpg);background-repeat: no-repeat;background-size: cover;}
-.image-14{background-image: url(IMG20251213171351.jpg);background-repeat: no-repeat;background-size: cover;}
+.image-1{background-image: url(asset/IMG20251213171121.jpg); background-repeat: no-repeat; background-size: cover}
+.image-2{background-image: url(asset/IMG20251213171139.jpg); background-repeat: no-repeat; background-size: cover}
+.image-3{background-image: url(asset/IMG20251213171146.jpg); background-repeat: no-repeat; background-size: cover}
+.image-4{background-image: url(asset/IMG20251213171208.jpg); background-repeat: no-repeat; background-size: cover}
+.image-5{background-image: url(asset/IMG20251213171216.jpg); background-repeat: no-repeat; background-size: cover}
+.image-7{background-image: url(asset/IMG20251213171241.jpg); background-repeat: no-repeat; background-size: cover}
+.image-8{background-image: url(asset/IMG20251213171248.jpg); background-repeat: no-repeat; background-size: cover}
+.image-9{background-image: url(asset/IMG20251213171256.jpg); background-repeat: no-repeat; background-size: cover}
+.image-10{background-image: url(asset/IMG20251213171304.jpg);background-repeat: no-repeat;background-size: cover;}
+.image-11{background-image: url(asset/IMG20251213171312.jpg);background-repeat: no-repeat;background-size: cover;}
+.image-12{background-image: url(asset/IMG20251213171336.jpg);background-repeat: no-repeat;background-size: cover;}
+.image-13{background-image: url(asset/IMG20251213171330.jpg);background-repeat: no-repeat;background-size: cover;}
+.image-14{background-image: url(asset/IMG20251213171351.jpg);background-repeat: no-repeat;background-size: cover;}
 
 @keyframes spin {
     from {translate: 0;}
     to {translate:-100%;}
 
 }
+
